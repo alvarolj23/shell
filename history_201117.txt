@@ -1,0 +1,128 @@
+mkdir first_dir
+ls
+mkdir ~/first_dir
+ls
+mkdir first_dir
+touch first_dir/text_file.txt
+ls
+cd first_dir
+cd..
+cd ..
+cd first_dir
+chmod g+x,oáºƒ£
+chmod g+x,o+w
+chmod g+x,o+w text_file.txt
+git config --global user.name "Alvaro Maria"
+git config --global user.email "alvarolj23@gmail.com"
+echo Hola Alba
+ls
+cd ..
+ls
+cd dsc
+ls
+pwd
+mkdir git
+ls
+cd git
+echo "# shell" >> README.md
+echo $host
+echo $HOST
+whoami
+ls
+ll
+cat README.md
+git init
+ls
+cd git
+git config --get user.name
+git add README.md
+ls
+git status
+git commit -m "first commit adding README.md"
+git status
+git branch -M main
+git branch -M master
+git status
+git remote add origin https://github.com/alvarolj23/shell.git
+git status
+git push -u origin master
+git status
+gedit README.md
+git add README.md
+git commit -m "change number 2"
+git push -u origin master
+cd ..
+ls
+cd data
+cd DAta
+cd Data
+ll
+cd us_dot
+cd otp
+ls
+cd ..
+ls
+cd traffic
+cd..
+cd ..
+ls
+cd opentraveldata
+ls
+head optd_aircraft.csv
+tail optd_airlines.csv
+head -n 15 optd_airlines.csv
+less optd_airlines.csv
+cd ..
+cd data/shell
+ls
+cd Data/
+ls
+cd shell
+ls
+less Finn.txt
+cd ~/Data/opentraveldata/optd_aircraft.csv
+cd ~/Data/opentraveldata/
+ls
+less optd_aircraft.csv
+which bash
+cd /bin/bash
+echo $PATH
+bash
+q
+exit
+ll
+which ll
+bash
+which ll
+whichs ls
+which ls
+ll
+echo $HISTFILE
+ls /home/dsc
+ls -l /home/dsc
+ls -l /home/dsc/.history
+cp
+cp --help
+ls
+cp /home/dsc/.history git
+cd git
+ls
+ll
+cd ..
+ls
+cd git
+cp ~/.history history 201117.txt
+cp home/dsc/.history history_201117.txt
+cd ..
+ls -l /home/dsc/.history
+ll
+cd git
+cp home/dsc/.history history_201117.txt
+cd ..
+ls -l /home/dsc/.history
+cp /home/dsc/.history history_201117.txt
+cd git
+ls
+ll
+ls -a
+cp /home/dsc/.history history_201117.txt
