@@ -126,3 +126,101 @@ ls
 ll
 ls -a
 cp /home/dsc/.history history_201117.txt
+ls
+ll
+git status
+git add history_201117.txt
+git push origin master
+git commit 'History' 
+git commit history_201117.txt 'History'
+git commit history_201117.txt "Corrupto"
+git commit history_201117.txt
+ls
+cd git
+exit
+cd git
+git status
+git commit --help
+git commit -m "History"
+git push origin master
+git status
+.history -i
+cd..
+exit
+cd DAta
+cd Data
+cd shell
+ll
+echo "hola me llamo alba" |wc
+cd ~
+cd Data
+cd shell
+cat Text_example.txt | wc
+clear
+cat Text_example.txt | wc
+cat Text_example.txt | wc-1
+cat Text_example.txt | wc-|\
+shell
+ls
+cd ..
+ls
+cd opentraveldata
+ls
+clear
+head -c 1K optd_aircraft.csv| wc
+head -c 1K optd_aircraft.csv
+ls
+ls --help
+ls -S
+ls -Sl
+head -n 1 ls -Sl
+ls -Sl
+ls -Sl| head -n 1
+cd Data
+cd opentraveldata
+ls -ls | tail -n 1
+ls -sSlr | tail -n 1
+ls -sSlr | tail -n 1 >largest_file.txt
+ls
+cat largest_file.txt
+pwd
+ls
+cd ..
+ls
+cd shell
+ls
+head -n 5 Finn.txt| wd -w
+head -n 5 Finn.txt| wc -w
+cd ..
+ls
+cat -n Finn.txt
+cd shell
+cat -n Finn.txt
+cat -n Finn.txt|head -n 3
+cd ..
+locate Text_example.txt
+cd shell
+ls
+cat -n Text_example.txt>Text_example_line
+ls
+cat Text_example_line
+echo Text_example_line >> Text_example_line
+cat Text_example_line
+echo Text_example_line
+cat Text_example_line>>Text_example_line
+cat Text_example_line
+cat Text_example_line>>cat Text_example_line
+cat Text_example_line
+echo $DATE
+echo $DISPLAY
+cat ~/.history| grep release
+git commit -m "first commit adding README.md"
+cd first_dir
+echo $DISPLAY
+echo Text_example_line >> Text_example_line
+echo $(date)
+cd git
+cd ~
+cd git
+cat ~/.history|grep cp
+cp /home/dsc/.history history_201117.txt
